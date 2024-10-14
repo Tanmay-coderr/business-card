@@ -1,0 +1,26 @@
+.avatar{
+    width: 150px;
+    border: 1px solid rgb(220, 133, 244);
+    border-radius: 300px;
+    
+}
+.card{
+    background-color: rgb(193, 142, 251);
+    
+    padding: 20px;
+    display: flex;
+    width: 400px;
+    margin: 30px auto auto auto;
+    margin-top: 30px;
+    border-bottom: 8px solid plum;
+    
+
+}
+.content{
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30px;
+    text-align: center;
+    color: beige;
+
+}
